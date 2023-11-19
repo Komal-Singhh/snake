@@ -1,1 +1,1 @@
-# snake
+A game that we all play in our chilhood time. The game of snake where snake eat an apple and increase it's size and try to make the higest score everytime and when it touches the boundry and in it's body then you loose the game.
